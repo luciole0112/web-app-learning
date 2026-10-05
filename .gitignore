@@ -1,0 +1,43 @@
+# ローカルの秘密情報。共有用の例はダミー値だけにする。
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+
+# JavaScriptの依存物・生成物
+node_modules/
+dist/
+coverage/
+.vite/
+*.tsbuildinfo
+
+# Pythonの仮想環境・生成物
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# ローカルDBとログ
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.log
+postgres-data/
+
+# OSの生成物
+.DS_Store
+Thumbs.db
+
+# package-lock.jsonなどの依存関係固定ファイル、
+# ソース、テスト、設計、学習記録はGitで管理する。
+
