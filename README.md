@@ -223,7 +223,7 @@ MVP（学習を始めるための最小構成）として、次を作成済み�
 Phase 2以降の詳細教材は、必要になった段階でlesson-authorが作成します。
 利用者のVS CodeでのCopilotの認識・応答は未検証です。
 [検証記録](docs/validation.md)と[初回の手動確認表](docs/acceptance-checklist.md)を参照してください。
-GitHub上への公開はまだ行っていません。
+公開Repository：[luciole0112/web-app-learning](https://github.com/luciole0112/web-app-learning)。
 
 ## 困ったとき
 

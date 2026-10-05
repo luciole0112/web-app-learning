@@ -182,5 +182,5 @@ Markdownの内部リンクはRepository内の相対パスを使用します。
 ## 完成範囲
 Copilot設定、初期教材5本、演習8本、Todo仕様、診断、進捗初期状態を作成済みです。
 詳細な後続教材とアプリの実装はこれから学習者と進めます。
-ローカルGitは初期化済みですが、コミット・GitHubへの公開は未実施です。
+ローカルGitを初期化し、[GitHub](https://github.com/luciole0112/web-app-learning)へ公開済みです。
 ZIPには.git履歴を含めないため、展開した場合は[保存手順](publishing.md)で初期化します。
